@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.bmstu.drivers.manager.core.model.Driver">
+		<field name="uuid" type="String" />
+		<field name="driverId" type="long" />
+		<field name="driverName" type="String" />
+		<field name="description" type="String" />
+	</model>
+</model-hints>

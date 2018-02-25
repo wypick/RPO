@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-destroy-method="destroy" default-init-method="afterPropertiesSet" xsi:schemaLocation=" http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean class="com.bmstu.drivers.manager.core.service.impl.DriverLocalServiceImpl" id="com.bmstu.drivers.manager.core.service.DriverLocalService" />
+	<bean class="com.bmstu.drivers.manager.core.service.impl.DriverServiceImpl" id="com.bmstu.drivers.manager.core.service.DriverService" />
+	<bean class="com.bmstu.drivers.manager.core.service.persistence.impl.DriverPersistenceImpl" id="com.bmstu.drivers.manager.core.service.persistence.DriverPersistence" parent="basePersistence" />
+</beans>

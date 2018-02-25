@@ -1,0 +1,9 @@
+Bundle-Name: com.bmstu.drivers.manager.core-api
+Bundle-SymbolicName: com.bmstu.drivers.manager.core.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.bmstu.drivers.manager.core.exception,\
+	com.bmstu.drivers.manager.core.model,\
+	com.bmstu.drivers.manager.core.service,\
+	com.bmstu.drivers.manager.core.service.persistence
+-includeresource: META-INF/service.xml=../com.bmstu.drivers.manager.core-service/service.xml

@@ -1,0 +1,4 @@
+Bundle-Name: com.bmstu.drivers.manager.web
+Bundle-SymbolicName: com.bmstu.drivers.manager.web
+Bundle-Version: 1.0.0
+Export-Package: com.bmstu.drivers.manager.web.constants
