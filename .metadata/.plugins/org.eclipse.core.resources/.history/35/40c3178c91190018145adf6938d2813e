@@ -1,9 +1,0 @@
-Bundle-Name: service_builder-api
-Bundle-SymbolicName: service_builder.api
-Bundle-Version: 1.0.0
-Export-Package:\
-	service_builder.exception,\
-	service_builder.model,\
-	service_builder.service,\
-	service_builder.service.persistence
--includeresource: META-INF/service.xml=../service_builder-service/service.xml
