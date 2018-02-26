@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE service-builder PUBLIC "-//Liferay//DTD Service Builder 7.0.0//EN" "http://www.liferay.com/dtd/liferay-service-builder_7_0_0.dtd">
+
+<service-builder auto-namespace-tables="true" package-path="service_builder">
+	<author>Romanova</author>
+	<namespace>service_builder</namespace>
+	<entity local-service="true" name="Driver" uuid="true">
+
+		<!-- PK fields -->
+		<column name="driverId" primary="true" type="long" />
+
+		<!-- Group instance -->
+		<column name="driverName" type="String" />
+
+		<!-- Audit fields -->
+		<column type="String" name="description"/>
+
+		<!-- Status fields -->
+
+		<!-- Other fields -->
+		
+		<finder name="DriverId" return-type="Collection">
+			<finder-column name="driverId" />
+		</finder>
+		
+	</entity>
+</service-builder>

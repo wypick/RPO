@@ -1,0 +1,10 @@
+package com.bmstu.devices.manager.web.constants;
+
+/**
+ * @author Tatiana
+ */
+public class Web_modulePortletKeys {
+
+	public static final String Web_module = "Drivers Manager";
+
+}

@@ -1,0 +1,9 @@
+#
+#Mon Feb 26 12:20:27 MSK 2018
+linkedResources=
+managedNatures=
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+subprojectPaths=com.bmstu.drivers.manager.core\:com.bmstu.drivers.manager.web\:com.bmstu.drivers.manager.core/com.bmstu.drivers.manager.core-api\:com.bmstu.drivers.manager.core/com.bmstu.drivers.manager.core-service
+derivedResources=.gradle\:build\:com.bmstu.drivers.manager.core/build\:com.bmstu.drivers.manager.web/build\:com.bmstu.drivers.manager.core/com.bmstu.drivers.manager.core-api/build\:com.bmstu.drivers.manager.core/com.bmstu.drivers.manager.core-service/build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildDir=build

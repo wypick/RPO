@@ -1,0 +1,4 @@
+Bundle-Name: web_module
+Bundle-SymbolicName: web_module
+Bundle-Version: 1.0.0
+Export-Package: web_module.constants

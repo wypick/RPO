@@ -1,0 +1,5 @@
+javax.portlet.display-name.web_module=Drivers Manager
+javax.portlet.keywords.web_module=drivers_manager,jsp
+javax.portlet.short-title.web_module=Drivers Manager
+javax.portlet.title.web_module=Drivers Manager
+web_module.caption=Hello from Drivers Manager!
